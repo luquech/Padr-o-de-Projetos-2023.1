@@ -1,0 +1,4 @@
+
+-Fazer os turnos da batalha
+-Criar um função pra ver as pot(mochila) que tem e talvez dropar as que não queira
+- estado de "descansar" e fazer com que escolhar entre explorar e descansar.

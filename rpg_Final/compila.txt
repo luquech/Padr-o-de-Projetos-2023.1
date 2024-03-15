@@ -1,0 +1,4 @@
+digitar no terminal primeiro g++ main.cpp -o seu_programa -lsfml-graphics -lsfml-audio -lsfml-window 
+-lsfml-system
+isso compila o programa e para executar digitar
+./seu_programa
